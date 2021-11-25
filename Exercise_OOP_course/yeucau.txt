@@ -1,0 +1,8 @@
+1. Tim khach hang mua do nhieu nhat
+2. In danh sach khach hang theo order thang sinh va name
+
+Send file format
+
+Subject
+JAVA_CODE_FINAL_[Ho_va_ten].zip
+attachment file.
